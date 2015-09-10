@@ -1,0 +1,2 @@
+This is the sample input! See it in the text file!
+This line is added using ./copy >> a.txt 

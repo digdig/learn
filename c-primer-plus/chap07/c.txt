@@ -1,0 +1,3 @@
+Please enter some text, enter # to quit
+num of A	E	I	O	U
+       0       1       0       1       0
